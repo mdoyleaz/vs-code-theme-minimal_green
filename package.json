@@ -3,6 +3,8 @@
   "displayName": "minimal_green",
   "description": "A minimal green theme",
   "version": "0.0.1",
+  "publisher": "moldaz",
+  "repository": "https://github.com/mdoyleaz/vs-code-theme-minimal_green",
   "engines": {
     "vscode": "^1.54.0"
   },

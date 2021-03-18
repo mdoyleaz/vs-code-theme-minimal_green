@@ -7,3 +7,4 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 ## [Unreleased]
 
 - Initial release
+- Updated syntax highlighting with https://github.com/arcticicestudio/nord-visual-studio-code as the base
