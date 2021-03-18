@@ -105,7 +105,7 @@
     "terminal.ansiBrightMagenta": "#9e8bba",
     "terminal.ansiMagenta": "#9e8bba",
     "terminal.foreground": "#b9b9b4",
-    "terminal.background": "#2E2F34",
+    "terminal.background": "#28282b",
     "quickInput.background": "#212225",
     "quickInput.foreground": "#b2b3aa",
     "quickInput.list.focusBackground": "#2E2F34"
