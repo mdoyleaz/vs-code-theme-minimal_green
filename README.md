@@ -6,7 +6,7 @@ Just a theme that I created to match my window manager, it turned out pretty nic
 
 ### Notes
 
-There are likely some issues with the syntax highlighting in languages that I don't normally use. If you come across these feel free to make updates and create a PR so that I can merge them in.
+There are likely some issues with the syntax highlighting in languages that I don't normally use. If you come across these, feel free to submit a PR so that I can merge them in.
 
 ---
 
@@ -18,4 +18,6 @@ There are likely some issues with the syntax highlighting in languages that I do
 
 ### Credits
 
-Thank you to the random themes on github that I was able to build the syntax highlighting from
+Thank you to the random themes on github that I was able to build the syntax highlighting from. 
+
+Specifically: https://github.com/arcticicestudio/nord-visual-studio-code
