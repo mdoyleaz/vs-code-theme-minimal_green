@@ -1,10 +1,15 @@
 # Change Log
 
-All notable changes to the "muted-green" extension will be documented in this file.
+## [Released]
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+`version: 0.0.3`
 
-## [Unreleased]
+- updated syntax hightlighting
+- updated a few theme colors
+
+---
+
+`version: 0.0.2`
 
 - Initial release
 - Updated syntax highlighting with https://github.com/arcticicestudio/nord-visual-studio-code as the base

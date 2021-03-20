@@ -2,7 +2,7 @@
   "name": "minimal-green",
   "displayName": "minimal_green",
   "description": "A minimal green theme",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "publisher": "moldaz",
   "repository": "https://github.com/mdoyleaz/vs-code-theme-minimal_green",
   "engines": {
