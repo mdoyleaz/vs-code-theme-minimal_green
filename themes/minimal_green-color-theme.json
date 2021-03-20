@@ -1,5 +1,5 @@
 {
-  "name": "It matches mine",
+  "name": "minimal_green",
   "type": "dark",
   "colors": {
     "activityBar.background": "#2E2F34",
@@ -41,6 +41,9 @@
     "editorWarning.foreground": "#e6c18a",
     "focusBorder": "#b7b9bb00",
     "gitDecoration.untrackedResourceForeground": "#6aa389",
+    "gitlens.decorations.addedForegroundColor": "#6aa389",
+    "gitlens.decorations.branchAheadForegroundColor": "#6aa389",
+    "gitlens.unpublishedCommitIconColor": "#6aa389",
     "icon.foreground": "#b2b3aa",
     "input.background": "#2E2F34",
     "input.foreground": "#b2b3aa",
@@ -108,7 +111,7 @@
     "terminal.background": "#28282b",
     "quickInput.background": "#212225",
     "quickInput.foreground": "#b2b3aa",
-    "quickInput.list.focusBackground": "#2E2F34"
+    "quickInputList.focusBackground": "#2E2F34"
   },
   "tokenColors": [
     {
