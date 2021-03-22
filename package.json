@@ -2,10 +2,10 @@
   "name": "minimal-green",
   "displayName": "minimal_green",
   "description": "A minimal green theme",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "publisher": "moldaz",
   "repository": "https://github.com/mdoyleaz/vs-code-theme-minimal_green",
-  "icon": "https://raw.githubusercontent.com/mdoyleaz/vs-code-theme-minimal_green/master/images/icon.png",
+  "icon": "images/icon.png",
   "engines": {
     "vscode": "^1.54.0"
   },
