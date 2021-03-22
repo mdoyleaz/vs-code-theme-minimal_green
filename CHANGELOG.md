@@ -2,6 +2,10 @@
 
 ## [Released]
 
+`version: 0.0.5`
+
+- Change display name
+
 `version: 0.0.4`
 
 - Added icon to be displayed on the extesnon
