@@ -2,6 +2,10 @@
 
 ## [Released]
 
+`version: 0.0.4`
+
+- Added icon to be displayed on the extesnon
+
 `version: 0.0.3`
 
 - updated syntax hightlighting

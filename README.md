@@ -12,7 +12,7 @@ There are likely some issues with the syntax highlighting in languages that I do
 
 ### Screenshots
 
-![screenshot](https://raw.githubusercontent.com/mdoyleaz/vs-code-theme-minimal_green/master/screenshots/minimal_green.png)
+![screenshot](https://raw.githubusercontent.com/mdoyleaz/vs-code-theme-minimal_green/master/images/screenshots/minimal_green.png)
 
 ---
 
