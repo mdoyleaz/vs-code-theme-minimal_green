@@ -11,7 +11,8 @@ jobs:
       - run: npm install
       - uses: lannonbr/vsce-action@master
         with:
-          args: "package"
-          args: "publish -p $VSCE_TOKEN"
+          args:
+            - "publish -p $VSCE_TOKEN"
+            - "package"
         env:
           VSCE_TOKEN: ${{ secrets.VSCE_TOKEN }}
