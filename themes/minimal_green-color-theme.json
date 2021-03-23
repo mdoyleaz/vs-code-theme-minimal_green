@@ -312,6 +312,17 @@
       }
     },
     {
+      "name": "Operator, Misc",
+      "scope": [
+        "punctuation.definition.tag.html",
+        "punctuation.definition.tag.begin.html",
+        "punctuation.definition.tag.end.html"
+      ],
+      "settings": {
+        "foreground": "#92ad84"
+      }
+    },
+    {
       "name": "Punctuation Definition Comment",
       "scope": [
         "punctuation.definition.comment",
