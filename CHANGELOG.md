@@ -2,10 +2,6 @@
 
 ## [Released]
 
-`version: 0.0.7`
-
-- Slightly tweaked html tag brackets
-
 `version: 0.0.6`
 
 - Lighten tag brackets
