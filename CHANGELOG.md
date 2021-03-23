@@ -2,6 +2,10 @@
 
 ## [Released]
 
+`version: 0.0.6`
+
+- Lighten tag brackets
+
 `version: 0.0.5`
 
 - Change display name
